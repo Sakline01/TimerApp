@@ -1,0 +1,24 @@
+.Input{
+    margin-top: 20px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.Input>input{
+    height: 30px;
+    width: 300px;
+    margin: auto;
+    border-radius: 5px;
+}
+.Input>button{
+    width: 100px;
+    height: 30px;
+    margin: auto;
+    background: rgb(165, 27, 2);
+    border: rgb(165,27,2);
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
